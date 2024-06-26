@@ -31,7 +31,7 @@ To run this project, you will need to add the following environment variables to
 
 `PORT = 8080`
 
-`DB_URL=mongodb+srv://omsaini:TaskGrit@cluster0.tpz7joh.mongodb.net/TaskGrit?retryWrites=true&w=majority&appName=Cluster0`
+`DB_URL=mongodb+srv://<username>:<password>@cluster0.tpz7joh.mongodb.net/<ur_db_name>?retryWrites=true&w=majority&appName=Cluster0`
 
 
 ## Run Locally⚒️
